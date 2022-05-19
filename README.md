@@ -1,4 +1,1 @@
-# Q3 - Final Lab Exam
-
-Abdullah Mohammed Bajaman 
-1936299
+# Q3 - Final Lab Exam project
